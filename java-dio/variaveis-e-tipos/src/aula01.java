@@ -1,3 +1,5 @@
 public class aula01 {
-    teste
+    public static void main(String[] args) {
+        double salarioMinimo = 2500;
+    }
 }
